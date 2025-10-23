@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Keep this above all other packs at all times. (Texture fallback in cast stuff breaks)"
+  }
+}

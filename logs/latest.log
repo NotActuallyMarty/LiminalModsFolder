@@ -1,0 +1,1230 @@
+[20:58:34] [main/INFO]: ModLauncher running: args [--username, ItsActuallyMarty, --version, 1.20.1, --gameDir, F:\ATLauncher\instances\MAINDONOTMOD, --assetsDir, F:\ATLauncher\assets, --assetIndex, 5, --uuid, 2f83df34-4d79-48e8-b94c-c01395c82013, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width=854, --height=480]
+[20:58:34] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[20:58:36] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[20:58:36] [main/INFO]: Trying GL version 4.6
+[20:58:36] [main/INFO]: Requested GL version 4.6 got version 4.6
+[20:58:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/F:/ATLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[20:58:36] [pool-2-thread-1/INFO]: GL info: AMD Radeon RX 6700 XT GL version 4.6.0 Core Profile Context 25.6.1.250522, ATI Technologies Inc.
+[20:58:37] [main/INFO]: Found mod file [FORGE] 1.20.1 ATM_PAINTING.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ActuallySubtractions-1.20.1-1.2.14.14+mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file AI-Improvements-1.20-0.5.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file alltheleaks-0.1.4-beta+1.20.1-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file almostunified-forge-1.20.1-0.10.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file antiblocksrechiseled-0.4.6.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file appliedenergistics2-forge-15.4.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file azurelib-neo-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file baguettelib-1.20.1-Forge-1.0.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.31-all.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file berry_good-1.20.1-7.0.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file blockofsky-neoforge-1.20.1-0.3.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file blueprint-1.20.1-7.1.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Botania-1.20.1-448-FORGE.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file botaniatubes-1.0.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file BrewinAndChewin-1.20.1-3.2.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file bucketlib-1.20.1-2.3.7.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file camera-forge-1.20.1-1.0.20.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ceramicbucket-1.20.1-4.1.0.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file cfm_circuit_breaker-1.0.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file chalk-1.20.1-1.6.6.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Chimes-v2.0.1-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file cofh_core-1.20.1-11.0.2.56.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file collective-1.20.1-8.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file copycats-3.0.2+mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.20.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file corpsecurioscompat-1.20.x-Forge-3.0.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file craftingtweaks-forge-1.20.1-18.2.5.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file create-1.20.1-6.0.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file create-musketmod-1.20.1-forge-1.5.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file create_central_kitchen-1.20.1-for-create-6.0.4-1.4.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file create_enchantment_industry-1.3.2-for-create-6.0.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file createaddition-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file createlowheated-forge-1.20.1-6.0.2-3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file curios-forge-5.14.1+1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file decorative_blocks-forge-1.20.1-4.1.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file DripSounds-1.19.4-0.3.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file DustrialDecor-1.3.5-1.20.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file eccentrictome-1.20.1-1.10.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file eidolon_repraised-1.20.1-0.3.8.15.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file EnderIO-1.20.1-6.2.11-beta-all.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file endrem_forge-5.3.3-R-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file entity_model_features_forge_1.20.1-2.4.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file entity_texture_features_forge_1.20.1-6.2.9.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file exposure-1.20.1-1.7.16-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file fairylights-7.0.0-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file fancymenu_forge_3.6.4_MC_1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.8.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file FastFurnace-1.20.1-8.0.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file FastLeafDecay-32.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file fastpaintings-1.20-1.2.7.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file FastWorkbench-1.20.1-8.0.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.15.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ftb-quests-forge-2001.4.13.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ftb-teams-forge-2001.3.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ftb-xmod-compat-forge-2.1.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file fusion-1.2.7b-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.1.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file guideme-20.1.7.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ImmersiveEngineering-1.20.1-10.2.0-183.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file inventoryessentials-forge-1.20.1-8.2.7.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file inventorysorter-1.20.1-23.0.8.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.13.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file JadeAddons-1.20.1-Forge-5.5.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file jearchaeology-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.112.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file jeimultiblocks-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Kiwi-1.20.1-Forge-11.8.31.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs-create-forge-2001.3.0-build.8.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs-forge-2001.6.5-build.16.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs-mekanism-forge-2001.1.5.1-build.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs-thermal-2001.1.10-build.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs_botania-1.4.0-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejs_enderio-forge-1.20.1-0.6.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file kubejsdelight-1.1.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file lexiconfig-forge-1.4.18-1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file lootjs-forge-1.20.1-2.13.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Lychee-1.20.1-Forge-5.1.19.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Mantle-1.20.1-1.11.55.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.16.80.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file miners_delight-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file moonlight-1.20-2.14.1-forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file moyai-1.20-2.1.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file musketmod-1.20.1-forge-1.5.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file neapolitan-1.20.1-5.1.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file nyfsspiders-forge-1.20.1-2.1.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file packetfixer-3.1.4-1.18-1.20.4-merged.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Placebo-1.20.1-8.6.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file plushie_buddies-0.1.6-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file refurbished_furniture-forge-1.20.1-1.0.12.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file rhino-forge-2001.2.3-build.10.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file simpleradio-forge-1.20.1-3.4.6.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file SmartBrainLib-forge-1.20.1-1.15.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Snad-20.1.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.19.1251.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.69.1005.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file storage_shelves-1.1.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file StorageDrawers-1.20.1-12.9.14.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file supplementaries-1.20-3.1.30.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file table_top_craft-1.20.1-6.1.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file TConstruct-1.20.1-3.10.0.67.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file tempad-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.10.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file thermal_cultivation-1.20.1-11.0.1.24.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file thermal_dynamics-1.20.1-11.0.1.23.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file thermal_expansion-1.20.1-11.0.1.29.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file thermal_foundation-1.20.1-11.0.6.70.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file thermal_innovation-1.20.1-11.0.1.23.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file time-in-a-bottle-4.0.4-mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file undergroundbeacons-1.20.1-1.0.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file Uppers-1.0.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file visuality-forge-2.0.2.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file voicechat-forge-1.20.1-2.5.30.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file woodenhopper-1.20.1-1.6.0.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file xercapaint-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/INFO]: Found mod file YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar of type MOD with provider {mods folder locator at F:\ATLauncher\instances\MAINDONOTMOD\mods}
+[20:58:37] [main/WARN]: Mod file F:\ATLauncher\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[20:58:37] [main/WARN]: Mod file F:\ATLauncher\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[20:58:37] [main/WARN]: Mod file F:\ATLauncher\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[20:58:37] [main/WARN]: Mod file F:\ATLauncher\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[20:58:37] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/INFO]: Found mod file forge-1.20.1-47.3.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@23811a09
+[20:58:37] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20:58:37] [main/INFO]: Found 23 dependencies adding them to mods collection
+[20:58:37] [main/INFO]: Found mod file GraphLib3-3.0.7.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file kuma-api-forge-20.1.10+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file junixsocket-common-2.6.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file MixinSquared-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file mixinsquared-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file Ponder-Forge-1.20.1-1.0.52.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file json-20210307.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file Registrate-MC1.20-1.3.11.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file httpmime-4.5.10.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file DiscordIPC-a8d6631cc9.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file animated-gif-lib-for-java-animated-gif-lib-1.7.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file junixsocket-native-common-2.6.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file thermal_core-1.20.1-11.0.6.24.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file flywheel-forge-1.20.1-1.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:37] [main/INFO]: Found mod file japng-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@2f5ac102
+[20:58:40] [main/INFO]: Compatibility level set to JAVA_17
+[20:58:40] [main/ERROR]: Mixin config musketmod.mixins.json does not specify "minVersion" property
+[20:58:40] [main/ERROR]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[20:58:40] [main/ERROR]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[20:58:40] [main/ERROR]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[20:58:41] [main/INFO]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[20:58:41] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, F:\ATLauncher\instances\MAINDONOTMOD, --assetsDir, F:\ATLauncher\assets, --uuid, 2f83df34-4d79-48e8-b94c-c01395c82013, --username, ItsActuallyMarty, --assetIndex, 5, --accessToken, ????????, --userType, msa, --versionType, release, --width=854, --height=480]
+[20:58:41] [main/INFO]: Loaded configuration file for Embeddium: 189 options available, 0 override(s) found
+[20:58:41] [main/INFO]: Searching for graphics cards...
+[20:58:41] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=AMD Radeon RX 6700 XT, version=DriverVersion=32.0.21013.1000]
+[20:58:41] [main/WARN]: Reference map 'tempad-forge-1.20.1-forge-refmap.json' for tempad.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/WARN]: Reference map 'kubejsdelight.refmap.json' for kubejsdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/WARN]: Reference map 'escalated-1.20.1-refmap.json' for escalated-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/WARN]: Reference map 'moyai-forge-refmap.json' for moyai.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/WARN]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/WARN]: Reference map 'kubejs_botania-forge-refmap.json' for kubejs_botania.mixins.forge.json could not be read. If this is a development environment you can ignore this message
+[20:58:41] [main/INFO]: Packet Fixer forge 1.19.4-1.20.1 has been applied successfully.
+[20:58:41] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:41] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:42] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/core/BatchableBufferSource (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.core.BatchableBufferSource)
+[20:58:42] [main/WARN]: Error loading class: net/irisshaders/batchedentityrendering/impl/FullyBufferedMultiBufferSource (java.lang.ClassNotFoundException: net.irisshaders.batchedentityrendering.impl.FullyBufferedMultiBufferSource)
+[20:58:42] [main/WARN]: Error loading class: net/irisshaders/iris/layer/InnerWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.InnerWrappedRenderType)
+[20:58:42] [main/WARN]: Error loading class: net/irisshaders/iris/layer/OuterWrappedRenderType (java.lang.ClassNotFoundException: net.irisshaders.iris.layer.OuterWrappedRenderType)
+[20:58:42] [main/WARN]: Error loading class: dev/tr7zw/skinlayers/render/CustomizableModelPart (java.lang.ClassNotFoundException: dev.tr7zw.skinlayers.render.CustomizableModelPart)
+[20:58:43] [main/INFO]: Skipping issue ItemStackCreationStatistics from mod jei as it's dev only!
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue002 will NOT be loaded as mod travelersbackpack is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.toolbelt.UntrackedIssue001 will NOT be loaded as mod toolbelt is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.tfcthermaldeposits.UntrackedIssue001 will NOT be loaded as mod tfcthermaldeposits is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.smallships.UntrackedIssue001 will NOT be loaded as mod smallships is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.railcraft.UntrackedIssue001 will NOT be loaded as mod railcraft is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.phosphophyllite.UntrackedIssue001 will NOT be loaded as mod phosphophyllite is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.occultism.UntrackedIssue001 will NOT be loaded as mod occultism is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.moonlight.UntrackedIssue001 will be loaded as it matches versions: 1.20-2.14.1 in [1.20-2.13.32,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.FakeLevelManagerMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue002 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.EntityTickListMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue003 will be loaded as it matches versions: 47.3.0 in [47.2,)
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue002 will be loaded as it matches versions: 47.3.0 in [47.2,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [accessor.FakePlayerNetHandlerAccessor, accessor.ConnectionAccessor]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forge.UntrackedIssue001 will be loaded as it matches versions: 47.3.0 in [47.2,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.ServerPlayerMixin, main.PlayerListMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.forbidden_arcanus.UntrackedIssue001 will NOT be loaded as mod forbidden_arcanus is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.domesticationinnovation.UntrackedIssue001 will NOT be loaded as mod domesticationinnovation is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.curios.UntrackedIssue001 will be loaded as it matches versions: 5.14.1+1.20.1 in [5.9.1,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.CuriosEventHandlerMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.createaddition.UntrackedIssue001 will NOT be loaded as mod createaddition does not match versions: 1.20.1-1.3.1 in [1.20.1-1.0.0b,1.20.1-1.2.3]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.create.UntrackedIssue001 will be loaded as it matches versions: 6.0.4 in [0.5.1.c,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [accessor.ExtendoGripItemAccessor]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.betterf3.UntrackedIssue001 will NOT be loaded as mod betterf3 is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue002 will NOT be loaded as mod ars_nouveau is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ars_nouveau.UntrackedIssue001 will NOT be loaded as mod ars_nouveau is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.architectury.UntrackedIssue001 will be loaded as it matches versions: 9.2.14 in [9.0.8,)
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.alexsmobs.Issue2165 will NOT be loaded as mod alexsmobs is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.aether.UntrackedIssue001 will NOT be loaded as mod aether is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.common.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.twilightforest.UntrackedIssue001 will NOT be loaded as mod twilightforest is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.travelersbackpack.UntrackedIssue001 will NOT be loaded as mod travelersbackpack is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.tombstone.UntrackedIssue001 will NOT be loaded as mod tombstone is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.sereneseasons.UntrackedIssue001 will NOT be loaded as mod sereneseasons is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.pneumaticcraft.UntrackedIssue001 will NOT be loaded as mod pneumaticcraft is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.nuclearcraft.UntrackedIssue001 will NOT be loaded as mod nuclearcraft is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mowziesmobs.UntrackedIssue002 will NOT be loaded as mod mowziesmobs is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mowziesmobs.UntrackedIssue001 will NOT be loaded as mod mowziesmobs is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mousetweaks.UntrackedIssue001 will be loaded as it matches versions: 2.25.1 in [2.25.1,)
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.mna.UntrackedIssue001 will NOT be loaded as mod mna is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecraft.UntrackedIssue001 will be loaded as it matches versions: 1.20.1 in 1.20.1
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.ATLItemStackMixin, main.MinecraftMixin, main.SynchedEntityDataMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecraft.EnderDragonLeak will be loaded as it matches versions: 1.20.1 in 1.20.1
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.EnderDragonRendererMixin, accessor.EnderDragonRendererModelAccessor]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecolonies.UntrackedIssue002 will NOT be loaded as mod minecolonies is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.minecolonies.UntrackedIssue001 will NOT be loaded as mod minecolonies is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ldlib.UntrackedIssue001 will NOT be loaded as mod ldlib is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.journeymap.UntrackedIssue001 will NOT be loaded as mod journeymap is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jeresources.UntrackedIssue001 will be loaded as it matches versions: 1.4.0.247 in [1.4.0.247,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.MobTableBuilderMixin, main.MobEntryMixin, main.AbstractVillagerEntryMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jei.UntrackedIssue002 will NOT be loaded as mod jei does not match versions: 15.20.0.112 in [15.4,15.5)
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.jei.UntrackedIssue001 will be loaded as it matches versions: 15.20.0.112 in [15.8.2.24,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.RecipeTransferButtonMixin, main.LazySortedRecipeLayoutListMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.irons_spellbooks.UntrackedIssue002 will NOT be loaded as mod irons_spellbooks is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.irons_spellbooks.UntrackedIssue001 will NOT be loaded as mod irons_spellbooks is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue003 will NOT be loaded as mod iceberg is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue002 will NOT be loaded as mod iceberg is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.iceberg.UntrackedIssue001 will NOT be loaded as mod iceberg is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.geckolib.UntrackedIssue001 will be loaded as it matches versions: 4.7.1.2 in [4.4.8,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.GeoModelMixin, main.GeoArmorRendererMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ftblibrary.UntrackedIssue001 will be loaded as it matches versions: 2001.2.9 in [2001.2.2,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [accessor.BaseScreenAccessor]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.flywheel.UntrackedIssue001 will NOT be loaded as mod flywheel does not match versions: 1.0.2 in [0.6.9-4,0.6.11-13]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.findme.UntrackedIssue001 will NOT be loaded as mod findme is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.entity_texture_features.UntrackedIssue001 will be loaded as it matches versions: 6.2.9 in [6.2.3,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.ATLLivingEntityRendererMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.entity_model_features.UntrackedIssue001 will be loaded as it matches versions: 2.4.1 in [2.2.2,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.ATLLivingEntityRendererMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.emi_loot.UntrackedIssue001 will NOT be loaded as mod emi_loot is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.emi.UntrackedIssue001 will NOT be loaded as mod emi is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.easy_villagers.UntrackedIssue001 will NOT be loaded as mod easy_villagers is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.difficultylock.UntrackedIssue001 will NOT be loaded as mod difficultylock is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.cyclopscore.UntrackedIssue001 will NOT be loaded as mod cyclopscore is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.corpse.UntrackedIssue001 will be loaded as it matches versions: 1.20.1-1.0.20 in [1.20.1-1.0.3,)
+[20:58:43] [main/INFO]: Mixins added to allowed list: [main.CorpseRendererMixin]
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.citadel.UntrackedIssue001 will NOT be loaded as mod citadel is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.blue_skies.UntrackedIssue001 will NOT be loaded as mod blue_skies is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.beansbackpacks.UntrackedIssue001 will NOT be loaded as mod beansbackpacks is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.badpackets.UntrackedIssue001 will NOT be loaded as mod badpackets is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ae2wtlib.UntrackedIssue002 will NOT be loaded as mod ae2wtlib is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.leaks.client.mods.ae2wtlib.UntrackedIssue001 will NOT be loaded as mod ae2wtlib is not present
+[20:58:43] [main/INFO]: Class dev.uncandango.alltheleaks.fix.common.mods.modernfix.CancelRLMixin will NOT be loaded as mod modernfix is not present
+[20:58:43] [main/INFO]: Skipping feature ResourceLocation Deduplication from mod minecraft as it's feature flag is not activated!
+[20:58:43] [main/INFO]: Skipping feature Ingredient Deduplication from mod minecraft as it's feature flag is not activated!
+[20:58:43] [main/INFO]: Skipping feature Prevent Search Ignored Items from mod jei as it's feature flag is not activated!
+[20:58:43] [main/WARN]: Error loading class: net/raphimc/immediatelyfast/feature/map_atlas_generation/MapAtlasTexture (java.lang.ClassNotFoundException: net.raphimc.immediatelyfast.feature.map_atlas_generation.MapAtlasTexture)
+[20:58:43] [main/WARN]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[20:58:43] [main/WARN]: Error loading class: mezz/modnametooltip/TooltipEventHandler (java.lang.ClassNotFoundException: mezz.modnametooltip.TooltipEventHandler)
+[20:58:43] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/ClientHelperImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.ClientHelperImpl)
+[20:58:43] [main/WARN]: Error loading class: com/simibubi/create/foundation/ponder/PonderWorld (java.lang.ClassNotFoundException: com.simibubi.create.foundation.ponder.PonderWorld)
+[20:58:43] [main/WARN]: Error loading class: com/hollingsworth/arsnouveau/common/entity/LightningEntity (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.entity.LightningEntity)
+[20:58:43] [main/WARN]: @Mixin target com.hollingsworth.arsnouveau.common.entity.LightningEntity was not found lychee.mixins.json:arsnouveau.LightningEntityMixin
+[20:58:43] [main/WARN]: Error loading class: me/shedaniel/rei/plugin/common/displays/crafting/DefaultCraftingDisplay (java.lang.ClassNotFoundException: me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay)
+[20:58:43] [main/WARN]: @Mixin target me.shedaniel.rei.plugin.common.displays.crafting.DefaultCraftingDisplay was not found lychee.mixins.json:rei.DefaultCraftingDisplayMixin
+[20:58:43] [main/WARN]: Error loading class: journeymap/client/ui/fullscreen/Fullscreen (java.lang.ClassNotFoundException: journeymap.client.ui.fullscreen.Fullscreen)
+[20:58:43] [main/WARN]: @Mixin target journeymap.client.ui.fullscreen.Fullscreen was not found create.mixins.json:compat.JourneyFullscreenMapMixin
+[20:58:43] [main/WARN]: Error loading class: studio/fantasyit/ars_botania/event/CapEvent (java.lang.ClassNotFoundException: studio.fantasyit.ars_botania.event.CapEvent)
+[20:58:43] [main/WARN]: @Mixin target studio.fantasyit.ars_botania.event.CapEvent was not found create_central_kitchen.mixins.json:common.arsbotania.CapEventMixin
+[20:58:43] [main/WARN]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[20:58:43] [main/WARN]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
+[20:58:43] [main/WARN]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[20:58:43] [main/WARN]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
+[20:58:43] [main/WARN]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
+[20:58:43] [main/WARN]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
+[20:58:43] [main/WARN]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[20:58:43] [main/WARN]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[20:58:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:58:45] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:45] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:47] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:47] [pool-4-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[20:58:48] [Datafixer Bootstrap/INFO]: 188 Datafixer optimizations took 109 milliseconds
+[20:58:48] [pool-4-thread-1/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bal000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20:58:50] [pool-4-thread-1/WARN]: Unable to find class com.simibubi.create.foundation.ponder.PonderWorld. Integration with PonderJS disabled.
+[20:58:50] [Render thread/WARN]: Assets URL 'union:/F:/ATLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23430!/assets/.mcassetsroot' uses unexpected schema
+[20:58:50] [Render thread/WARN]: Assets URL 'union:/F:/ATLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23430!/data/.mcassetsroot' uses unexpected schema
+[20:58:50] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:58:51] [Render thread/INFO]: Setting user: ItsActuallyMarty
+[20:58:51] [Render thread/INFO]: BeforeConstant is searching for constants in method with descriptor (Lnet/minecraft/network/chat/Component;Lnet/minecraft/client/GuiMessageTag;)V
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = , stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 0
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\r, stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 1
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn \\r
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = 
+, stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 2
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn 
+
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = \\n, stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 3
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn \\n
+[20:58:51] [Render thread/INFO]:   BeforeConstant found CLASS constant: value = Ljava/lang/String;, typeValue = null
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [{}] [CHAT] {}, stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 4
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn [{}] [CHAT] {}
+[20:58:51] [Render thread/INFO]:   BeforeConstant found STRING constant: value = [CHAT] {}, stringValue = null
+[20:58:51] [Render thread/INFO]:     BeforeConstant found a matching constant TYPE at ordinal 5
+[20:58:51] [Render thread/INFO]:       BeforeConstant found LdcInsn [CHAT] {}
+[20:58:51] [Render thread/INFO]: Loaded default options from kubejs/config/defaultoptions.txt
+[20:58:51] [Render thread/ERROR]: Failed to load options
+java.lang.NumberFormatException: For input string: "key.mouse.middle"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:668) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:786) ~[?:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145579_(OptionsKeyLwjgl3Fix.java:162) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145576_(OptionsKeyLwjgl3Fix.java:183) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.util.Either$Left.mapBoth(Either.java:33) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.map(DataResult.java:111) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145574_(OptionsKeyLwjgl3Fix.java:160) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.Typed.lambda$updateCap$9(Typed.java:164) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.util.Pair$Instance.traverse(Pair.java:90) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.profunctors.TraversalP$1.lambda$wander$0(TraversalP.java:50) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.updateCap(Typed.java:164) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.update(Typed.java:138) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.update(Typed.java:133) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_16632_(OptionsKeyLwjgl3Fix.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.DataFix.lambda$checked$3(DataFix.java:86) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.functions.Comp.applyUnchecked(Comp.java:126) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.functions.Comp.lambda$eval$2(Comp.java:118) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.capWrite(Type.java:165) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.lambda$readAndWrite$10(Type.java:157) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.readAndWrite(Type.java:156) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.DataFixerUpper.update(DataFixerUpper.java:78) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264080_(DataFixTypes.java:41) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264226_(DataFixTypes.java:49) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264218_(DataFixTypes.java:53) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.m_92164_(Options.java:1159) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.load(Options.java:1050) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.m_92140_(Options.java:1028) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.<init>(Options.java:888) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:425) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:182) ~[client-1.20.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[20:58:51] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[20:58:51] [Render thread/INFO]: Loaded client.properties
+[20:58:51] [Render thread/INFO]: OpenGL Vendor: ATI Technologies Inc.
+[20:58:51] [Render thread/INFO]: OpenGL Renderer: AMD Radeon RX 6700 XT
+[20:58:51] [Render thread/INFO]: OpenGL Version: 4.6.0 Core Profile Context 25.6.1.250522
+[20:58:51] [modloading-worker-0/INFO]: [MELODY] Loading Melody background audio library..
+[20:58:51] [modloading-worker-0/WARN]: Configuration file F:\ATLauncher\instances\MAINDONOTMOD\defaultconfigs\woodenhopper-server.toml is not correct. Correcting
+[20:58:51] [modloading-worker-0/WARN]: Incorrect key Wooden Hopper Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20:58:51] [modloading-worker-0/WARN]: Incorrect key Wooden Hopper Settings.woodenHopperCooldown was corrected from null to its default, 16. 
+[20:58:51] [modloading-worker-0/WARN]: Incorrect key Wooden Hopper Settings.woodenHopperPullItemsFromWorldEnabled was corrected from null to its default, true. 
+[20:58:51] [modloading-worker-0/WARN]: Incorrect key Wooden Hopper Settings.woodenHopperPullItemsFromInventoriesEnabled was corrected from null to its default, true. 
+[20:58:51] [modloading-worker-0/INFO]: Configuration has been loaded
+[20:58:51] [modloading-worker-0/INFO]: Loading Entity Model Features, did you know if you turn off the lights and whisper 'OptiFine' 3 times you will lose 20fps.
+[20:58:51] [modloading-worker-0/INFO]: Loading Entity Texture Features, not to be confused with CIT, seriously, why does that keep happening?
+[20:58:52] [modloading-worker-0/INFO]: [KONKRETE] Successfully initialized!
+[20:58:52] [modloading-worker-0/INFO]: [KONKRETE] Server-side libs ready to use!
+[20:58:52] [modloading-worker-0/INFO]: Loading Collective version 8.3.
+[20:58:52] [modloading-worker-0/INFO]: [ETF]: 6 new ETF Random Properties registered by entity_model_features.
+[20:58:52] [modloading-worker-0/INFO]: Setting up discord client
+[20:58:52] [modloading-worker-0/INFO]: Loaded common.properties
+[20:58:52] [modloading-worker-0/INFO]: Loaded dev.properties
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_nbt
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:sync_known_server_registries
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftblibrary:edit_config
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_teams
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:sync_message_history
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:open_my_team_gui
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_settings_response
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:send_message
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:send_message_response
+[20:58:52] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbteams:update_presence
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:create_party
+[20:58:52] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[20:58:52] [modloading-worker-0/INFO]: Hello from Corpse Curios Compat!
+[20:58:52] [pool-7-thread-1/INFO]: Found preferred client: ANY
+[20:58:52] [modloading-worker-0/INFO]: Processing 5 KiwiModule annotations
+[20:58:52] [modloading-worker-0/INFO]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[20:58:52] [modloading-worker-0/INFO]: MinecraftForge v47.3.0 Initialized
+[20:58:53] [modloading-worker-0/INFO]: Registered azurelib config for auto-sync function
+[20:58:53] [modloading-worker-0/WARN]: Configuration file F:\ATLauncher\instances\MAINDONOTMOD\defaultconfigs\ceramicbucket-server.toml is not correct. Correcting
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options.ceramicBucketBreakTemperature was corrected from null to its default, 1000. 
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options.milkingEnabled was corrected from null to its default, true. 
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options.fishObtainingEnabled was corrected from null to its default, true. 
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options.durability was corrected from null to its default, 0. 
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_quests
+[20:58:53] [modloading-worker-0/INFO]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_team_data
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_task_progress
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:claim_reward_response
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_editing_mode
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_other_team_data
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_completion_toast
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_reward_toast
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:display_item_reward_toast
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_pinned_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:toggle_chapter_pinned_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:force_save
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:update_team_data
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_started_reset
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:object_completed_reset
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_lock
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:reset_reward
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:team_data_changed
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:task_screen_config_req
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_object
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:create_object_response
+[20:58:53] [modloading-worker-0/INFO]: Beginning lexicon shelving!
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:delete_object_response
+[20:58:53] [modloading-worker-0/WARN]: Configuration file F:\ATLauncher\instances\MAINDONOTMOD\defaultconfigs\bucketlib-server.toml is not correct. Correcting
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20:58:53] [modloading-worker-0/WARN]: Incorrect key Balance Options.infinityEnchantmentEnabled was corrected from null to its default, false. 
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:edit_object_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[20:58:53] [modloading-worker-0/INFO]: Shelved lexicon com.codinglitch.lexiconfig.LexiconfigConfig@67d9bf3d!
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_quest_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:change_chapter_group_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:move_chapter_group_response
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_reward_blocking
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:sync_structures_request
+[20:58:53] [modloading-worker-0/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@1023fb24!
+[20:58:53] [modloading-worker-0/INFO]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@3575b44d!
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_structures_response
+[20:58:53] [modloading-worker-0/INFO]: Registering C2S receiver with id ftbquests:request_team_data
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:sync_editor_permission
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:open_quest_book
+[20:58:53] [modloading-worker-0/INFO]: Registering S2C receiver with id ftbquests:clear_display_cache
+[20:58:53] [modloading-worker-0/INFO]: Loading EnderIO integration for KubeJS
+[20:58:53] [modloading-worker-0/INFO]: Looking for KubeJS plugins...
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs
+[20:58:53] [modloading-worker-0/WARN]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs_mekanism
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs_enderio
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source exposure
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source ftbxmodcompat
+[20:58:53] [modloading-worker-0/WARN]: Plugin dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin does not have required mod ftbchunks loaded, skipping
+[20:58:53] [modloading-worker-0/WARN]: Plugin dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin does not have required mod ftbfiltersystem loaded, skipping
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejsdelight
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source lootjs
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source sdrp
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs_thermal
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs_botania
+[20:58:53] [modloading-worker-0/INFO]: Found plugin source kubejs_create
+[20:58:53] [modloading-worker-0/INFO]: [FANCYMENU] Loading v3.6.4 in client-side mode on FORGE!
+[20:58:54] [modloading-worker-0/INFO]: Visuality has initialized, have fun with more particles!
+[20:58:54] [modloading-worker-0/INFO]: Found plugin source lychee
+[20:58:54] [modloading-worker-0/INFO]: Done in 344.8 ms
+[20:58:54] [modloading-worker-0/INFO]: Sending ConfigManager...
+[20:58:54] [modloading-worker-0/INFO]: [FTB Quests] Enabled KubeJS integration
+[20:58:54] [modloading-worker-0/INFO]: Sending ConfigManager took 29.60 ms
+[20:58:54] [modloading-worker-0/INFO]: LycheeKubeJSPlugin is there!
+[20:58:54] [modloading-worker-0/INFO]: Kotlin For Forge Enabled!
+[20:58:54] [modloading-worker-0/INFO]: Loading Rhino Minecraft remapper...
+[20:58:54] [modloading-worker-0/INFO]: Rhino properties loaded.
+[20:58:54] [modloading-worker-0/INFO]: Loading mappings for 1.20.1
+[20:58:54] [modloading-worker-0/INFO]: Done in 0.095 s
+[20:58:55] [modloading-worker-0/INFO]: Added bindings for script type STARTUP from mod 'almostunified': [AlmostUnified]
+[20:58:55] [modloading-worker-0/INFO]: Loaded script startup_scripts:block_modification.js in 0.104 s
+[20:58:55] [modloading-worker-0/INFO]: Loaded script startup_scripts:emissive_textures.js in 0.0 s
+[20:58:55] [modloading-worker-0/INFO]: Loaded script startup_scripts:environment.js in 0.001 s
+[20:58:55] [modloading-worker-0/INFO]: Loaded script startup_scripts:init.js in 0.025 s
+[20:58:55] [modloading-worker-0/INFO]: Loaded 4/4 KubeJS startup scripts in 0.644 s with 0 errors and 0 warnings
+[20:58:55] [modloading-worker-0/INFO]: Added bindings for script type CLIENT from mod 'almostunified': [AlmostUnified]
+[20:58:55] [modloading-worker-0/INFO]: Loaded script client_scripts:jei_hide.js in 0.0 s
+[20:58:55] [modloading-worker-0/INFO]: Loaded 1/1 KubeJS client scripts in 0.023 s with 0 errors and 0 warnings
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#13: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#32: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#40: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#47: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#54: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#62: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#79: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#88: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#94: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#100: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#106: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#115: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#121: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#127: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#154: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#160: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#170: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#176: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#183: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#190: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#196: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#202: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#207: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#215: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#224: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#233: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#242: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#248: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#256: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#265: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#271: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#277: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#283: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#293: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#309: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#319: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#325: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#331: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#337: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#350: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#388: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#429: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#485: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#546: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#551: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#560: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#567: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#574: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#584: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#605: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#623: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#636: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#649: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#664: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#686: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#719: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#756: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#763: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#769: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#775: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#781: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:58:55] [modloading-worker-0/WARN]: init.js#788: blockBuilder.material(string) is no longer supported! Use .soundType(SoundType) and .mapColor(MapColor) instead!
+[20:59:01] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:send_data_from_server
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:paint
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:add_stage
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:remove_stage
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:sync_stages
+[20:59:01] [modloading-worker-0/INFO]: Registering C2S receiver with id kubejs:first_click
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:toast
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:reload_startup_scripts
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_server_errors
+[20:59:01] [modloading-worker-0/INFO]: Registering S2C receiver with id kubejs:display_client_errors
+[20:59:01] [Render thread/INFO]: Module [kiwi:block_templates] initialized
+[20:59:01] [Render thread/INFO]: Module [kiwi:block_components] initialized
+[20:59:01] [Render thread/INFO]: Module [kiwi:data] initialized
+[20:59:01] [Render thread/INFO]: 		recipe_serializer: 3
+[20:59:01] [Render thread/INFO]: Module [kiwi:item_templates] initialized
+[20:59:04] [Render thread/INFO]: Initialized block sets in 18ms
+[20:59:06] [Render thread/INFO]: Found non-pack entry 'F:\ATLauncher\instances\MAINDONOTMOD\resourcepacks\folder.json', ignoring
+[20:59:06] [Render thread/INFO]: Block minecraft:water_cauldron had its color provider replaced and will not use per-vertex coloring
+[20:59:06] [Render thread/ERROR]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[20:59:06] [Render thread/WARN]: Mod(s) [entity_texture_features] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[20:59:07] [Render thread/INFO]: [FANCYMENU] Registering resource reload listener..
+[20:59:07] [Render thread/INFO]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[20:59:08] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: STARTING
+[20:59:08] [Render thread/INFO]: Reloading ResourceManager: file/FreshAnimations_v1.9.2.zip, vanilla, mod_resources, Moonlight Mods Dynamic Assets, KubeJS Resource Pack [assets], file/Flintl0cks_v1.2.zip, file/Liminal Resources
+[20:59:08] [Render thread/INFO]: Generated runtime resources for 4 packs in a total of: 132 ms
+[20:59:08] [Render thread/INFO]: Successfully loaded 1 assets remolders!
+[20:59:08] [modloading-worker-0/WARN]: Configuration file F:\ATLauncher\instances\MAINDONOTMOD\config\waterdripsound-client.toml is not correct. Correcting
+[20:59:08] [modloading-worker-0/WARN]: Incorrect key General.soundCategory was corrected from AMBIENT to its default, AMBIENT. 
+[20:59:08] [Worker-Main-11/WARN]: File supplementaries:sounds/item/awning_bounce_1.ogg does not exist, cannot add it to event supplementaries:block.awning.bounce
+[20:59:08] [Worker-Main-11/WARN]: File supplementaries:sounds/item/awning_bounce_2.ogg does not exist, cannot add it to event supplementaries:block.awning.bounce
+[20:59:08] [Worker-Main-11/WARN]: File supplementaries:sounds/item/awning_bounce_3.ogg does not exist, cannot add it to event supplementaries:block.awning.bounce
+[20:59:09] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[20:59:09] [Render thread/INFO]: [FANCYMENU] Starting late client initialization phase..
+[20:59:09] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
+[20:59:09] [Render thread/INFO]: Client resource reload complete!
+[20:59:09] [Render thread/INFO]: [FANCYMENU] Custom window icon successfully updated!
+[20:59:09] [Render thread/INFO]: [EMF]: EMF did not find the Iris API, disabling shadow pass detection
+[20:59:09] [Worker-Main-1/ERROR]: Invalid path in pack: botania:patchouli_books/lexicon/en_us/README, ignoring
+[20:59:09] [Worker-Main-4/ERROR]: Invalid path in pack: miners_delight:textures/item/Lunchbox_fill.png, ignoring
+[20:59:09] [Worker-Main-4/ERROR]: Invalid path in pack: miners_delight:textures/item/Lunchbox.png, ignoring
+[20:59:09] [Worker-Main-4/ERROR]: Invalid path in pack: miners_delight:textures/item/Launchbox_fill.png, ignoring
+[20:59:09] [Worker-Main-4/ERROR]: Invalid path in pack: miners_delight:textures/item/Launchbox.png, ignoring
+[20:59:10] [Worker-Main-1/ERROR]: Invalid path in pack: miners_delight:textures/item/Lunchbox_fill.png, ignoring
+[20:59:10] [Worker-Main-1/ERROR]: Invalid path in pack: miners_delight:textures/item/Lunchbox.png, ignoring
+[20:59:10] [Worker-Main-1/ERROR]: Invalid path in pack: miners_delight:textures/item/Launchbox_fill.png, ignoring
+[20:59:10] [Worker-Main-1/ERROR]: Invalid path in pack: miners_delight:textures/item/Launchbox.png, ignoring
+[20:59:10] [Worker-Main-7/INFO]: Loaded 64 fluid textures in 112.1213 ms
+[20:59:10] [Worker-Main-11/ERROR]: Failed to load model enderio:models/block/athena/advanced_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: tconstruct:material, sophisticatedbackpacks:backpack, enderio:conduit, immersiveengineering:basic_split, forge:elements, forge:obj, tconstruct:tool, thermal:reconfigurable, immersiveengineering:potion_bucket, thermal:dynamo, mantle:colored_block, amendments:hanging_pot, supplementaries:sign_post, supplementaries:rope_knot, supplementaries:book_pile, botania:mana_gun, supplementaries:bunting, mekanism:energy_cube, amendments:tool_hook, mantle:retextured, enderio:modloaded, supplementaries:goblet, forge:separate_transforms, enderio:painted_block, thermal:underlay, blueprint:fullbright, fastpaintings:painting, supplementaries:frame_block, mekanism:robit, amendments:wall_lantern, framework:open_model, kiwi:retexture, immersiveengineering:models/conveyor, mantle:item_layer, supplementaries:extra_rotation, immersiveengineering:conf_sides, immersiveengineering:ie_obj, tconstruct:fluid_texture, supplementaries:blackboard, thermal_innovation:reservoir, amendments:waterlogged_lily, immersiveengineering:models/coresample, cofh_core:fluid_container, supplementaries:flower_box, guideme:guide_item_dispatcher, mantle:connected, mantle:fallback, tconstruct:tank, supplementaries:jar, amendments:carpet_overlay, supplementaries:faucet, forge:empty, thermal_dynamics:duct, mantle:nbt_key, mekanism:transmitter, amendments:cauldron, immersiveengineering:feedthrough, thermal:fluid_cell, tconstruct:gui, thermal:item_cell, tconstruct:fluid_container, botania:floating_flower, bucketlib:universal_bucket, forge:fluid_container, forge:composite, immersiveengineering:mirror, thermal:energy_cell, enderio:io_overlay, forge:item_layers
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[20:59:10] [Worker-Main-7/ERROR]: Failed to load model enderio:models/block/athena/basic_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: tconstruct:material, sophisticatedbackpacks:backpack, enderio:conduit, immersiveengineering:basic_split, forge:elements, forge:obj, tconstruct:tool, thermal:reconfigurable, immersiveengineering:potion_bucket, thermal:dynamo, mantle:colored_block, amendments:hanging_pot, supplementaries:sign_post, supplementaries:rope_knot, supplementaries:book_pile, botania:mana_gun, supplementaries:bunting, mekanism:energy_cube, amendments:tool_hook, mantle:retextured, enderio:modloaded, supplementaries:goblet, forge:separate_transforms, enderio:painted_block, thermal:underlay, blueprint:fullbright, fastpaintings:painting, supplementaries:frame_block, mekanism:robit, amendments:wall_lantern, framework:open_model, kiwi:retexture, immersiveengineering:models/conveyor, mantle:item_layer, supplementaries:extra_rotation, immersiveengineering:conf_sides, immersiveengineering:ie_obj, tconstruct:fluid_texture, supplementaries:blackboard, thermal_innovation:reservoir, amendments:waterlogged_lily, immersiveengineering:models/coresample, cofh_core:fluid_container, supplementaries:flower_box, guideme:guide_item_dispatcher, mantle:connected, mantle:fallback, tconstruct:tank, supplementaries:jar, amendments:carpet_overlay, supplementaries:faucet, forge:empty, thermal_dynamics:duct, mantle:nbt_key, mekanism:transmitter, amendments:cauldron, immersiveengineering:feedthrough, thermal:fluid_cell, tconstruct:gui, thermal:item_cell, tconstruct:fluid_container, botania:floating_flower, bucketlib:universal_bucket, forge:fluid_container, forge:composite, immersiveengineering:mirror, thermal:energy_cell, enderio:io_overlay, forge:item_layers
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[20:59:10] [Worker-Main-5/ERROR]: Failed to load model enderio:models/block/athena/vibrant_capacitor_bank_part.json
+com.google.gson.JsonParseException: Model loader 'athena:athena' not found. Registered loaders: tconstruct:material, sophisticatedbackpacks:backpack, enderio:conduit, immersiveengineering:basic_split, forge:elements, forge:obj, tconstruct:tool, thermal:reconfigurable, immersiveengineering:potion_bucket, thermal:dynamo, mantle:colored_block, amendments:hanging_pot, supplementaries:sign_post, supplementaries:rope_knot, supplementaries:book_pile, botania:mana_gun, supplementaries:bunting, mekanism:energy_cube, amendments:tool_hook, mantle:retextured, enderio:modloaded, supplementaries:goblet, forge:separate_transforms, enderio:painted_block, thermal:underlay, blueprint:fullbright, fastpaintings:painting, supplementaries:frame_block, mekanism:robit, amendments:wall_lantern, framework:open_model, kiwi:retexture, immersiveengineering:models/conveyor, mantle:item_layer, supplementaries:extra_rotation, immersiveengineering:conf_sides, immersiveengineering:ie_obj, tconstruct:fluid_texture, supplementaries:blackboard, thermal_innovation:reservoir, amendments:waterlogged_lily, immersiveengineering:models/coresample, cofh_core:fluid_container, supplementaries:flower_box, guideme:guide_item_dispatcher, mantle:connected, mantle:fallback, tconstruct:tank, supplementaries:jar, amendments:carpet_overlay, supplementaries:faucet, forge:empty, thermal_dynamics:duct, mantle:nbt_key, mekanism:transmitter, amendments:cauldron, immersiveengineering:feedthrough, thermal:fluid_cell, tconstruct:gui, thermal:item_cell, tconstruct:fluid_container, botania:floating_flower, bucketlib:universal_bucket, forge:fluid_container, forge:composite, immersiveengineering:mirror, thermal:energy_cell, enderio:io_overlay, forge:item_layers
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserializeGeometry(ExtendedBlockModelDeserializer.java:97) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:55) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraftforge.client.model.ExtendedBlockModelDeserializer.deserialize(ExtendedBlockModelDeserializer.java:38) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.GsonHelper.m_13776_(GsonHelper.java:581) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.m_111461_(BlockModel.java:74) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.resources.model.ModelManager.m_246478_(ModelManager.java:110) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[20:59:10] [Worker-Main-1/INFO]: HELLO FROM PREINIT
+[20:59:10] [Worker-Main-10/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
+[20:59:10] [Worker-Main-9/INFO]: Setting game stages provider implementation to: KubeJS Stages
+[20:59:10] [Worker-Main-9/INFO]: Chose [KubeJS Stages] as the active game stages implementation
+[20:59:10] [Worker-Main-9/INFO]: Chose [FALLBACK] as the active permissions implementation
+[20:59:10] [Worker-Main-10/INFO]: Botania integration added
+[20:59:10] [Worker-Main-9/INFO]: [FTB Quests] recipe helper provider is [JEI]
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Compatibility version 18
+[20:59:10] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[20:59:10] [Worker-Main-5/INFO]: Version 10.4.16 initializing...
+[20:59:10] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 clay_ball = 1 clay
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 snowball = 1 snow_block
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 brick = 1 bricks
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 9 melon_slice = 1 melon
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 sand = 1 sandstone
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 red_sand = 1 red_sandstone
+[20:59:10] [Worker-Main-7/INFO]: New compacting rule 4 clay_ball = 1 clay
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Loading plugins
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Loaded 1 plugin(s)
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Initializing plugins
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Initialized 1 plugin(s)
+[20:59:10] [Worker-Main-9/INFO]: [voicechat] Registering events for 'simpleradio'
+[20:59:11] [Worker-Main-5/INFO]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[20:59:11] [Worker-Main-5/INFO]: Mod loaded.
+[20:59:11] [Render thread/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[20:59:11] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[20:59:11] [Forge Version Check/INFO]: [resourcepackoverrides] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/resourcepackoverrides.json
+[20:59:11] [Render thread/INFO]: Initialized color sets in 87ms
+[20:59:11] [Forge Version Check/INFO]: [resourcepackoverrides] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[20:59:11] [Forge Version Check/INFO]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[20:59:11] [Render thread/INFO]: Finished mod setup in: [1, 3, 0, 1, 0, 0, 15, 8, 0] ms
+[20:59:11] [Forge Version Check/INFO]: [corpse] Found status: OUTDATED Current: 1.20.1-1.0.20 Target: 1.20.1-1.0.23
+[20:59:11] [Forge Version Check/INFO]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[20:59:11] [Forge Version Check/INFO]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[20:59:11] [Forge Version Check/INFO]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[20:59:11] [Forge Version Check/INFO]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[20:59:11] [Forge Version Check/INFO]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[20:59:11] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%23107!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23431!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.0.jar%23431!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%23107!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%23107!/:?]
+	... 6 more
+[20:59:11] [Forge Version Check/INFO]: [antiblocksrechiseled] Starting version check at https://raw.githubusercontent.com/manmaed/AntiBlocksReChiseled/main/update.json
+[20:59:11] [Forge Version Check/INFO]: [antiblocksrechiseled] Found status: AHEAD Current: 0.4.6 Target: null
+[20:59:11] [Forge Version Check/INFO]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[20:59:11] [Forge Version Check/INFO]: [copycats] Found status: AHEAD Current: 3.0.2+mc.1.20.1-forge Target: null
+[20:59:11] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20:59:11] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[20:59:11] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[20:59:11] [Actually Additions Special Fetcher/INFO]: Fetching Special People Stuff...
+[20:59:11] [Worker-Main-11/INFO]: [KONKRETE] Client-side libs ready to use!
+[20:59:11] [Placebo Patreon Trail Loader/INFO]: Loaded 49 patreon trails.
+[20:59:12] [Placebo Patreon Wing Loader/INFO]: Loaded 43 patreon wings.
+[20:59:12] [Actually Additions Special Fetcher/INFO]: Fetching Special People Stuff done!
+[20:59:12] [Worker-Main-8/WARN]: Unused frames in sprite enderio:block/primitive_alloy_smelter_front_active: [4, 5]
+[20:59:12] [Worker-Main-10/INFO]: [voicechat] Using Cloth Config GUI
+[20:59:12] [Worker-Main-10/INFO]: [voicechat] Loading Opus
+[20:59:12] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[20:59:12] [Forge Version Check/INFO]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/main/cofh_core/update.json
+[20:59:12] [Worker-Main-1/INFO]: Initialized HolidayManager.
+[20:59:12] [Worker-Main-9/WARN]: Unused frames in sprite enderio:block/alloy_smelter_front_active: [4, 5]
+[20:59:12] [Forge Version Check/INFO]: [cofh_core] Found status: AHEAD Current: 11.0.2 Target: null
+[20:59:12] [Forge Version Check/INFO]: [thermal] Starting version check at https://raw.github.com/cofh/version/main/thermal/update.json
+[20:59:12] [Forge Version Check/INFO]: [thermal] Found status: AHEAD Current: 11.0.6 Target: null
+[20:59:12] [Forge Version Check/INFO]: [thermal_innovation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_innovation.json
+[20:59:12] [Forge Version Check/INFO]: [thermal_innovation] Found status: AHEAD Current: 11.0.1 Target: null
+[20:59:12] [Forge Version Check/INFO]: [thermal_foundation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_foundation.json
+[20:59:12] [Forge Version Check/INFO]: [thermal_foundation] Found status: AHEAD Current: 11.0.6 Target: null
+[20:59:12] [Forge Version Check/INFO]: [thermal_expansion] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_expansion.json
+[20:59:12] [Forge Version Check/INFO]: [thermal_expansion] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[20:59:12] [Forge Version Check/INFO]: [thermal_dynamics] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_dynamics.json
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 2: 1
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 3: 1
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 4: 2
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 5: 2
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 6: 3
+[20:59:12] [Worker-Main-1/WARN]: Invalid frame index on sprite immersiveengineering:item/metal_ingot_uranium frame 7: 3
+[20:59:12] [Forge Version Check/INFO]: [thermal_dynamics] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[20:59:12] [Forge Version Check/INFO]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20:59:12] [Forge Version Check/INFO]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.6.6
+[20:59:12] [Forge Version Check/INFO]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[20:59:12] [Forge Version Check/INFO]: [moonlight] Found status: BETA Current: 1.20-2.14.1 Target: null
+[20:59:12] [Forge Version Check/INFO]: [eccentrictome] Starting version check at https://api.modrinth.com/updates/eccentric-tome/forge_updates.json
+[20:59:12] [Worker-Main-8/WARN]: Texture kubejs:block/lost_eye_side2 with size 8x8 limits mip level from 4 to 3
+[20:59:12] [Worker-Main-8/WARN]: Texture dustrial_decor:block/redstone_lantern_off with size 16x15 limits mip level from 3 to 0
+[20:59:12] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'actuallyadditions:blockstates/crate_small.json' missing model for variant: 'actuallyadditions:crate_small#'
+[20:59:12] [Forge Version Check/INFO]: [eccentrictome] Found status: AHEAD Current: 1.20.1-1.10.3 Target: null
+[20:59:12] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.20.1/changelog.json
+[20:59:12] [Forge Version Check/INFO]: [immersiveengineering] Found status: AHEAD Current: 1.20.1-10.2.0-183 Target: null
+[20:59:12] [Forge Version Check/INFO]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[20:59:12] [Forge Version Check/INFO]: [supplementaries] Found status: BETA Current: 1.20-3.1.30 Target: null
+[20:59:13] [Forge Version Check/INFO]: [thermal_cultivation] Starting version check at https://raw.github.com/cofh/version/main/thermal/update_cultivation.json
+[20:59:13] [Forge Version Check/INFO]: [thermal_cultivation] Found status: UP_TO_DATE Current: 11.0.1 Target: null
+[20:59:13] [Worker-Main-3/WARN]: Unable to load model: 'storage_shelves:blockbirch_crafting_storage_shelf' referenced from: storage_shelves:birch_crafting_storage_shelf#facing=north: java.io.FileNotFoundException: storage_shelves:models/blockbirch_crafting_storage_shelf.json
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_drawers_2.json' missing model for variant: 'storagedrawers:compacting_drawers_2#facing=north,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_drawers_2.json' missing model for variant: 'storagedrawers:compacting_drawers_2#facing=west,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_drawers_2.json' missing model for variant: 'storagedrawers:compacting_drawers_2#facing=east,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_drawers_2.json' missing model for variant: 'storagedrawers:compacting_drawers_2#facing=south,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:compacting_half_drawers_2#facing=west,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:compacting_half_drawers_2#facing=north,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:compacting_half_drawers_2#facing=east,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:compacting_half_drawers_2#facing=south,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_drawers_2#facing=north,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_drawers_2#facing=east,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_drawers_2#facing=west,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_drawers_2#facing=south,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_half_drawers_2#facing=north,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_half_drawers_2#facing=south,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_half_drawers_2#facing=east,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/framed_compacting_half_drawers_2.json' missing model for variant: 'storagedrawers:framed_compacting_half_drawers_2#facing=west,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=west,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=north,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=north,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=west,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=south,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=south,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=east,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_indicator.json' missing model for variant: 'storagedrawers:meta_indicator#facing=east,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=south,half=false,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=east,half=false,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=east,half=false,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=west,half=false,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=east,half=true,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=east,half=true,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=south,half=false,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=south,half=true,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=south,half=true,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=north,half=false,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=north,half=true,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=west,half=true,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=north,half=true,slots=4'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=west,half=true,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=west,half=false,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_comp_indicator.json' missing model for variant: 'storagedrawers:meta_comp_indicator#facing=north,half=false,slots=1'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=east,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=east,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=north,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=west,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=north,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=south,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=west,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_side.json' missing model for variant: 'storagedrawers:meta_framed_drawers_side#facing=south,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=east,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=south,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=west,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=north,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=north,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=south,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=west,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_trim.json' missing model for variant: 'storagedrawers:meta_framed_drawers_trim#facing=east,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=north,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=west,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=south,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=north,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=south,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=east,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=west,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_front.json' missing model for variant: 'storagedrawers:meta_framed_drawers_front#facing=east,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=north,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=north,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=south,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=south,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=west,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=east,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=east,half=false,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_drawers_shading.json' missing model for variant: 'storagedrawers:meta_framed_drawers_shading#facing=west,half=true,slots=3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=north,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=east,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=east,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=south,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=south,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=west,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=west,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_side.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_side#facing=north,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=south,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=east,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=north,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=north,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=east,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=west,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=south,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_trim.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_trim#facing=west,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=east,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=west,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=north,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=south,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=north,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=east,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=south,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_front.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_front#facing=west,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=east,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=west,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=north,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=north,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=south,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=east,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=south,half=false,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'storagedrawers:blockstates/meta_framed_compdrawers_2_shading.json' missing model for variant: 'storagedrawers:meta_framed_compdrawers_2_shading#facing=west,half=true,slots=open3'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=east': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=south': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=down': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=north': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=up': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' in resourcepack: 'KubeJS Resource Pack [assets]' for variant: 'facing=west': Unknown blockstate property: 'facing'
+[20:59:14] [Worker-Main-3/WARN]: Exception loading blockstate definition: 'kubejs:blockstates/red_tape.json' missing model for variant: 'kubejs:red_tape#'
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'actuallyadditions:block/crate_small' referenced from: actuallyadditions:crate_small#inventory: java.io.FileNotFoundException: actuallyadditions:models/block/crate_small.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'decorative_blocks:blockstate_copy_item#inventory' referenced from: decorative_blocks:blockstate_copy_item#inventory: java.io.FileNotFoundException: decorative_blocks:models/item/blockstate_copy_item.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/blocking_arrow_3' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/blocking_arrow_3.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/blocking_arrow_2' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/blocking_arrow_2.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/blocking_arrow_1' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/blocking_arrow_1.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/pulling_arrow_2' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/pulling_arrow_2.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/pulling_arrow_1' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/pulling_arrow_1.json
+[20:59:14] [Worker-Main-3/WARN]: Unable to load model: 'tconstruct:item/tool/longbow/pulling_arrow_3' referenced from: tconstruct:longbow#inventory: java.io.FileNotFoundException: tconstruct:models/item/tool/longbow/pulling_arrow_3.json
+[20:59:14] [Worker-Main-3/INFO]: 89 material render infos loaded
+[20:59:16] [Worker-Main-3/INFO]: Adding new model for simpleradio:transceiver_item#inventory
+[20:59:16] [Worker-Main-3/INFO]: Adding new model for simpleradio:transceiver#inventory
+[20:59:20] [Worker-Main-3/WARN]: Using deprecated 'luminosity' field on ColoredBlockModel color data for tconstruct:queens_slime_block#inventory, this will be removed in 1.20 in favor of Forge's 'emissivity'.
+[20:59:20] [Worker-Main-3/WARN]: Using deprecated 'luminosity' field on ColoredBlockModel color data for tconstruct:block/storage/queens_slime, this will be removed in 1.20 in favor of Forge's 'emissivity'.
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:ball_pit#level=9:
+    minecraft:textures/atlas/blocks.png:kubejs:block/ball_pit_still
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:wallpaper7#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:block/wallpaper7
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:pool_locker_double#facing=up,half=bottom:
+    minecraft:textures/atlas/blocks.png:kubejs:block/pool_locker_double
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model supplementaries:confetti_popper#inventory:
+    minecraft:textures/atlas/blocks.png:supplementaries:party_hat/party_hat
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:pressurized_chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:pool_locker_double#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:block/pool_locker_double
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:wallpaper7#:
+    minecraft:textures/atlas/blocks.png:kubejs:block/wallpaper7
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model plushie_buddies:workbench#facing=east,model=main:
+    minecraft:textures/atlas/blocks.png:plushie_buddies:block/workbench
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:redstone_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model plushie_buddies:workbench#facing=north,model=side:
+    minecraft:textures/atlas/blocks.png:plushie_buddies:block/workbench
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model plushie_buddies:workbench#inventory:
+    minecraft:textures/atlas/blocks.png:plushie_buddies:block/workbench
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:energy_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:ender_chemical_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model musketmod:musket_with_scope#inventory:
+    minecraft:textures/atlas/blocks.png:minecraft:scope_texture
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model plushie_buddies:workbench#facing=south,model=main:
+    minecraft:textures/atlas/blocks.png:plushie_buddies:block/workbench
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model supplementaries:globe#inventory:
+    minecraft:textures/atlas/blocks.png:supplementaries:item/globes/globe_arzinist
+    minecraft:textures/atlas/blocks.png:supplementaries:item/globes/globe_looxond
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:dense_me_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:ender_fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:pressurized_fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:item_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:heat_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model createaddition:small_light_connector#facing=west,mode=push,powered=true,rotation=x_clockwise_180,variant=default:
+    minecraft:textures/atlas/blocks.png:create:block/chute_block
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:me_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:pool_locker_single#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:block/pool_locker_single
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model kubejs:pool_locker_single#facing=west,half=top:
+    minecraft:textures/atlas/blocks.png:kubejs:block/pool_locker_single
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model plushie_buddies:workbench#facing=west,model=main:
+    minecraft:textures/atlas/blocks.png:plushie_buddies:block/workbench
+[20:59:20] [Worker-Main-3/WARN]: Missing textures in model enderio:fluid_conduit#inventory:
+    minecraft:textures/atlas/blocks.png:enderio:block/conduit/power1
+[20:59:21] [Worker-Main-7/INFO]: Cataloging lexicon com.codinglitch.lexiconfig.LexiconfigConfig@67d9bf3d!
+[20:59:21] [Worker-Main-7/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@1023fb24!
+[20:59:21] [Worker-Main-7/INFO]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioClientConfig@3575b44d!
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[20:59:21] [Worker-Main-7/INFO]: Create is present!
+[20:59:21] [Worker-Main-7/INFO]: ..and compat is enabled!
+[20:59:21] [Worker-Main-7/INFO]: Lexiconfig cataloging completed!
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at io.github.mortuusars.exposure.integration.jade.ExposureJadePlugin
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at snownee.jade.addon.JadeAddonsBase
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at snownee.kiwi.customization.compat.jade.JadeCompat
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at appeng.integration.modules.jade.JadeModule
+[20:59:21] [Worker-Main-4/INFO]: Registering Ponder Scenes took 135.6 ms
+[20:59:21] [Worker-Main-4/INFO]: Registering Ponder Tags took 20.09 ms
+[20:59:21] [Worker-Main-8/INFO]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[20:59:29] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: pause_screen
+[20:59:30] [Render thread/ERROR]: Failed to load options
+java.lang.NumberFormatException: For input string: "key.mouse.middle"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:668) ~[?:?]
+	at java.lang.Integer.parseInt(Integer.java:786) ~[?:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145579_(OptionsKeyLwjgl3Fix.java:162) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145576_(OptionsKeyLwjgl3Fix.java:183) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.util.Either$Left.mapBoth(Either.java:33) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.map(DataResult.java:111) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_145574_(OptionsKeyLwjgl3Fix.java:160) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.Typed.lambda$updateCap$9(Typed.java:164) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.util.Pair$Instance.traverse(Pair.java:90) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.profunctors.TraversalP$1.lambda$wander$0(TraversalP.java:50) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.optics.Traversal$Instance$1.lambda$wander$0(Traversal.java:34) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.updateCap(Typed.java:164) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.update(Typed.java:138) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.Typed.update(Typed.java:133) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.fixes.OptionsKeyLwjgl3Fix.m_16632_(OptionsKeyLwjgl3Fix.java:159) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at com.mojang.datafixers.DataFix.lambda$checked$3(DataFix.java:86) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.functions.Comp.applyUnchecked(Comp.java:126) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.functions.Comp.lambda$eval$2(Comp.java:118) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.capWrite(Type.java:165) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.lambda$readAndWrite$10(Type.java:157) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$11(DataResult.java:139) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:137) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.types.Type.readAndWrite(Type.java:156) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at com.mojang.datafixers.DataFixerUpper.update(DataFixerUpper.java:78) ~[datafixerupper-6.0.8.jar%23114!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264080_(DataFixTypes.java:41) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264226_(DataFixTypes.java:49) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.datafix.DataFixTypes.m_264218_(DataFixTypes.java:53) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.m_92164_(Options.java:1159) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Options.load(Options.java:1050) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$finishModLoading$7(ClientModLoader.java:106) ~[forge-1.20.1-47.3.0-universal.jar%23435!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Minecraft.m_91383_(Minecraft.java:1106) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.Minecraft.m_91374_(Minecraft.java:718) ~[client-1.20.1-20230612.114412-srg.jar%23430!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:218) ~[client-1.20.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.3.0.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[20:59:30] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[20:59:30] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[20:59:30] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[20:59:30] [Render thread/INFO]: Sound engine started
+[20:59:30] [Render thread/INFO]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[20:59:31] [Render thread/INFO]: Endimation Loader has loaded 1 endimations
+[20:59:31] [Render thread/INFO]: Created: 8192x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 64x64x4 refurbished_furniture:textures/atlas/tv_channels.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/armor_trims.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:59:31] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:59:31] [Render thread/INFO]: Replacing model for simpleradio:iron_module#inventory
+[20:59:31] [Render thread/INFO]: Replacing model for simpleradio:gold_module#inventory
+[20:59:31] [Render thread/INFO]: Replacing model for simpleradio:diamond_module#inventory
+[20:59:31] [Render thread/INFO]: Replacing model for simpleradio:netherite_module#inventory
+[20:59:34] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}.
+[20:59:41] [Render thread/WARN]: Failed to add slimed layer to entity: entity.create.package. This bug was caused by forge! Use neo
+[20:59:41] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/WARN]: Shader eidolon:glowing_particle could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/WARN]: Shader eidolon:sprite_particle could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/WARN]: Shader cofh_core:particle_over could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/WARN]: Shader cofh_core:particle_add could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/WARN]: Shader cofh_core:particle_screen could not find sampler named Sampler2 in the specified shader program.
+[20:59:41] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/particles.png-atlas
+[20:59:41] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/paintings.png-atlas
+[20:59:41] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:59:41] [Render thread/INFO]: Loading exposure filters:
+[20:59:41] [Render thread/INFO]: Filter [exposure:light_blue_pane, exposure:shaders/light_blue_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:orange_pane, exposure:shaders/orange_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:red_pane, exposure:shaders/red_filter.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:purple_pane, exposure:shaders/purple_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:blue_pane, exposure:shaders/blue_filter.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:light_gray_pane, exposure:shaders/light_gray_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:magenta_pane, exposure:shaders/magenta_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:gray_pane, exposure:shaders/gray_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:lime_pane, exposure:shaders/lime_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:green_pane, exposure:shaders/green_filter.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:pink_pane, exposure:shaders/pink_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:yellow_pane, exposure:shaders/yellow_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:white_pane, exposure:shaders/white_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:brown_pane, exposure:shaders/brown_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:glass_pane, exposure:shaders/crisp.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:interplanar_projector, exposure:shaders/invert.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:black_pane, exposure:shaders/black_tint.json] added.
+[20:59:41] [Render thread/INFO]: Filter [exposure:cyan_pane, exposure:shaders/cyan_tint.json] added.
+[20:59:41] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 1250 jsons
+[20:59:41] [Render thread/INFO]: Data driven guides: []
+[20:59:41] [Render thread/ERROR]: Couldn't find icon ae2:creative_storage_cell for icon of page ae2:ae2-mechanics/bytes-and-types.md (from KubeJS Resource Pack [assets])
+[20:59:41] [Render thread/ERROR]: Couldn't find icon ae2:creative_storage_cell for icon of page ae2:ae2-mechanics/bytes-and-types.md (from KubeJS Resource Pack [assets])
+[20:59:41] [Render thread/INFO]: Created: 128x64x0 guideme:textures/atlas/gui.png-atlas
+[20:59:41] [Render thread/INFO]: Blueprint Splash Manager has loaded 0 splashes
+[20:59:41] [Render thread/INFO]: Loaded 3 armor models in 57.9583 ms
+[20:59:41] [Render thread/INFO]: Finished loading 680 Faucet Fluids in 3.2494 ms
+[20:59:41] [Render thread/INFO]: Finished loading 2 Channel fluids in 1.4963 ms
+[20:59:41] [Render thread/INFO]: Created: 256x256x0 moonlight:textures/atlas/map_markers.png-atlas
+[20:59:41] [Render thread/INFO]: Created: 128x128x0 enderio:textures/atlas/conduit_icons.png-atlas
+[20:59:41] [Render thread/INFO]: Loaded 79 shader sources in 57.147 ms
+[20:59:41] [Render thread/INFO]: Loaded 51 train hat configurations.
+[20:59:41] [Render thread/INFO]: Loaded 18 fluid unit lists in 0.7287 ms
+[20:59:41] [Render thread/INFO]: Finished loading 146 Block entity fluids in 1.8886 ms
+[20:59:41] [Render thread/INFO]: Finished loading 0 Block entity items in 1.34 ms
+[20:59:41] [Render thread/INFO]: Finished loading 152 Block entity items in 2.2556 ms
+[20:59:41] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[20:59:41] [Render thread/INFO]: Created: 512x256x0 mekanism:textures/atlas/robit.png-atlas
+[20:59:41] [Render thread/INFO]: [FANCYMENU] Reloading resources..
+[20:59:41] [Render thread/INFO]: [FANCYMENU] Pre-loading resources..
+[20:59:41] [Render thread/INFO]: [ETF]: reloading ETF data.
+[20:59:41] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}.
+[20:59:41] [Render thread/INFO]: [FANCYMENU] Minecraft resource reload: FINISHED
+[20:59:41] [Render thread/INFO]: Canceling Microsoft telemetry
+[20:59:41] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: accessibility_onboarding_screen
+[21:00:03] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[21:00:06] [Render thread/INFO]: Stopping!
+[21:00:06] [Render thread/INFO]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[21:00:06] [Render thread/INFO]: [ETF]: emissive suffixes loaded: {_e}.

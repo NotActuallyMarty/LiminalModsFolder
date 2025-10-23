@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/sjoer/Twitch/Minecraft/Instances/Liminal Industries/saves/community rooms
+}
+
